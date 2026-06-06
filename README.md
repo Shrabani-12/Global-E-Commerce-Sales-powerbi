@@ -61,6 +61,23 @@ Regular customers generated more than half of total revenue, highlighting the im
 
 Regional Performance
 
+Skills Demonstrated
+
+
+Data Cleaning
+
+Data Modeling
+
+DAX Calculations
+
+Business Analytics
+
+Data Visualization
+
+Dashboard Design
+
+Insight Generation
+
 Revenue remained stable across regions, although profitability varied considerably.
 
 
